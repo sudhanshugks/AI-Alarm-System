@@ -1,4 +1,4 @@
-# 🤖 AI Alarm System 2026
+# 🤖 AI Alarm System
 
 > A futuristic AI-powered alarm system built in Python — Voice Control, Smart Sounds & AI Sleep Insights.
 
@@ -8,19 +8,19 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🎤 **Voice Control** | Say "Snooze" or "Stop" to control alarms hands-free |
-| 🔊 **5 Unique Sounds** | Neural Pulse, Digital Rain, Cosmic Wake, Cyber Beep, Quantum Bell |
-| 🧠 **AI Sleep Analysis** | Smart pattern detection & sleep recommendations |
-| 🗣️ **Text-to-Speech** | AI announces your alarm label & morning message |
-| 💬 **AI Quotes** | Motivational AI-generated wake-up messages |
-| 📅 **Repeat Days** | Set alarms for specific weekdays or one-time |
-| 💤 **Smart Snooze** | 5-min snooze with snooze-count tracking |
-| 📊 **Stats Dashboard** | Track alarms, days, and snooze history |
-| 🌙 **Dark UI** | Futuristic 2026-style dark theme with Courier font |
+|  **Voice Control** | Say "Snooze" or "Stop" to control alarms hands-free |
+|  **5 Unique Sounds** | Neural Pulse, Digital Rain, Cosmic Wake, Cyber Beep, Quantum Bell |
+|  **AI Sleep Analysis** | Smart pattern detection & sleep recommendations |
+|  **Text-to-Speech** | AI announces your alarm label & morning message |
+|  **AI Quotes** | Motivational AI-generated wake-up messages |
+|  **Repeat Days** | Set alarms for specific weekdays or one-time |
+|  **Smart Snooze** | 5-min snooze with snooze-count tracking |
+|  **Stats Dashboard** | Track alarms, days, and snooze history |
+|  **Dark UI** | Futuristic 2026-style dark theme with Courier font |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-alarm-system.git
+In New terminal 
 cd ai-alarm-system
 ```
 
@@ -48,9 +48,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-o
-> ```
-
 ### 4. Run the app
 ```bash
 python main.py
@@ -58,7 +55,7 @@ python main.py
 
 ---
 
-## 🎵 Alarm Sounds (numpy generated — no audio files needed!)
+## 🎵 Alarm Sounds
 
 | Sound | Description |
 |---|---|
@@ -94,7 +91,8 @@ ai-alarm-system/
 
 ## 📸 Screenshots
 
-> Add screenshots of your running app here!
+> ![alt text](image-1.png)
+> ![alt text](image.png)
 
 ---
 
