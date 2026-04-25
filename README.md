@@ -28,7 +28,7 @@
 
 ### 1. Clone the repo
 ```bash
-In New terminal 
+In New terminal type 
 cd ai-alarm-system
 ```
 
