@@ -31,8 +31,6 @@ You do **not** need to install Python or any dependencies to use this applicatio
 1. Double-click the **`AI Alarm.exe`** file.
 2. The app will launch immediately.
 
-> **Tip:** You can right-click `AI Alarm.exe` and select "Send to > Desktop (create shortcut)" for quick access every morning!
-
 ---
 
 ## 💻 For Developers (Run & Build from Source)
