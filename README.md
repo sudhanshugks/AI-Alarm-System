@@ -28,6 +28,9 @@
 
 You do **not** need to install Python or any dependencies to use this application!
 
+**[🚀 Click here to Download AI Alarm.exe](https://github.com/sudhanshugks/AI-Alarm-System/releases/latest/download/AI.Alarm.exe)**
+ 
+> ⚠️ **Browser SmartScreen Warning?** — This is normal for unsigned open-source apps.
 1. Double-click the **`AI Alarm.exe`** file.
 2. The app will launch immediately.
 
